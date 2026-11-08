@@ -1,0 +1,12 @@
+# Archivos del sistema y espacio de trabajo de Obsidian (evita conflictos de sync)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/canvas-state.json
+.obsidian/backups/
+
+# Archivos de caché del plugin Obsidian Git
+.obsidian/plugins/obsidian-git/data.json
+
+# Archivos del sistema operativo (macOS / Windows)
+.DS_Store
+Thumbs.db
