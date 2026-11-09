@@ -2,7 +2,7 @@
 # DOPAMINE TRAP
 Cofre Interactivo: Desafíos y Bloqueo por Retos
 
-**Equipo:** Danae Hernandez Saavedra, Leonardo, Pedro
+**Equipo:** Danae Hernandez Saavedra, Leonardo, Jose Pedro Itzcoatl Macuil
 
 ## Problema
 
