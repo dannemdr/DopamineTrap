@@ -14,7 +14,9 @@ Saludo de acuerdo a lo esperado, se copio el código de la presentación y despu
 ![Reto](Media/RetoDanne.png)
 
 #### Video de como es mi parpadeo 
-Aquí se puede observar como es el parpadeó configurado
+Aquí se puede observar como es el parpadeó configurado.
+
+	Si aparece un "?" porfavor de un click en el icono y debería aparecer: (Sorry about that, but we can’t show files that are this big right now.) Y arriba de ese texto en morado o azul aparecerá "View raw", al darle click a esas dos palabra se descargará el video o abrirá una pagina con el video. Una disculpa por las molestias (｡>﹏<)
 
 
 ![Parpadeo](Media/ParpadeoDanne.mov)
