@@ -1,6 +1,8 @@
 
+Evidencias por integrante del equipo de las pruebas realizadas del XIAO, están ordenadas por integrante, primer parpadeo, saludo, un video del parpadeo y finalmente del soldado.
 
-### Danae Hernandez Saaverda
+
+### Danae Hernandez Saavedra
 
 
 #### Tu primer parpadeo real
@@ -22,7 +24,28 @@ Aquí se puede observar como es el parpadeó configurado.
 ![Parpadeo](Media/ParpadeoDanne.mov)
 
 
-Leonardo
+### Jose Leonardo Diaz
 
 
-Pedro
+#### Tu primer parpadeo real
+-insertar texto-
+
+#### Haz que tu XIAO salude
+-insertar texto-
+
+#### Video de como es mi parpadeo 
+-insertar texto-
+
+
+
+
+### Jose Pedro Macuil 
+
+#### Tu primer parpadeo real
+-insertar texto-
+
+#### Haz que tu XIAO salude
+-insertar texto-
+
+#### Video de como es mi parpadeo 
+-insertar texto-
