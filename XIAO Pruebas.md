@@ -28,14 +28,16 @@ Aquí se puede observar como es el parpadeó configurado.
 
 
 #### Tu primer parpadeo real
--insertar texto-
-
+Cargar el codigo fue facíl, pero un error no permitia que funcione
+![[blink dia.png]]
 #### Haz que tu XIAO salude
--insertar texto-
+La modificación fue sencilla
+
+![[Saludodiaz.png]]
 
 #### Video de como es mi parpadeo 
--insertar texto-
 
+![[videosDiaz.mp4]]
 
 
 
