@@ -45,10 +45,10 @@ La modificación fue sencilla
 
 #### Tu primer parpadeo real
 En si fue fácil hacer esto ya que solo es copiar y pegar el código de un solo parpadeo 
-![[Pipop.png]]
+![Saludo](Media/Pipop.png)
 #### Haz que tu XIAO salude
 Este fue mas difícil ya que, me daba error a no tener bien colocada la Xiao, el modelo en el que se tenia que correr era el incorrecto, entonces pues no se podía correr. Pero después ya 
-![[Piposaludo.png]]
+![Reto](Media/Piposaludo.png)
 #### Video de como es mi parpadeo 
 Por fin parpadea, Después de resetear ya parpadea
-![[EspPipo.mp4]]
+![Parpadeo](Media/EspPipo.mp4)
