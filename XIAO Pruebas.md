@@ -44,10 +44,11 @@ La modificación fue sencilla
 ### Jose Pedro Macuil 
 
 #### Tu primer parpadeo real
--insertar texto-
-
+En si fue fácil hacer esto ya que solo es copiar y pegar el código de un solo parpadeo 
+![[Pipop.png]]
 #### Haz que tu XIAO salude
--insertar texto-
-
+Este fue mas difícil ya que, me daba error a no tener bien colocada la Xiao, el modelo en el que se tenia que correr era el incorrecto, entonces pues no se podía correr. Pero después ya 
+![[Piposaludo.png]]
 #### Video de como es mi parpadeo 
--insertar texto-
+Por fin parpadea, Después de resetear ya parpadea
+![[EspPipo.mp4]]
