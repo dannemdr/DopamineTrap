@@ -68,15 +68,15 @@ Fue la primera vez que soldaba, la verdad si me tarde bastante, pero fui con cal
 
 #### Tu primer parpadeo real
 Cargar el codigo fue facíl, pero un error no permitia que funcione
-![[blink dia.png]]
+![saludo](blink dia.png)
 #### Haz que tu XIAO salude
 La modificación fue sencilla
 
-![[Saludodiaz.png]]
+![reto](saludodiaz.png)
 
 #### Video de como es mi parpadeo 
 
-![[videosDiaz.mp4]]
+![parpadeo](videosDiaz.mp4)
 
 #### Hora de la Soldadura
 -inserta imagen y breve texto-
