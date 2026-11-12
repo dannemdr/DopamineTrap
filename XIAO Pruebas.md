@@ -28,41 +28,38 @@ Bueno para empezar en el proceso de soldadura primero hay que saber que ocupar, 
 
 Ahora si, antes de explicar el proceso, enseñare los materiales ocupados en este mismo.
 
-![[Soldadura1Danne.jpg]]
+![Soldadura 3D](Media/Soldadura1Danne.JPG)
 *(Imagen modificada con IA para colocar texto)
 
 
 Pasando más a la acción, veremos como se coloco la pieza con las pinzas de soporte, la cual la verdad fue una gran ayuda, aunque a la hora de soldar la pieza para lograr que se quedaran juntas las patitas y la xiao lo hice con el dedo sosteniendo las patitas, donde descubrí que el calor si se pasa aunque no se agarre de manera directa, y si pasa demasiado calor ( ꩜ ᯅ ꩜;)⁭ ... (No murio mi dedo pero sentí como si hubiera puesto el dedo en una plancha)
 
-![[Soldadura2Danne.JPG]]
+![Soldadura 3D](Media/Soldadura2Danne.JPG)
 
 
 Close up de como se ve la xiao agarrada por el soporte
 
-![[Soldadadura3Danne.JPG]]
+![Soldadura 3D](Media/Soldadadura3Danne.JPG)
 
 
 Ahora antes de empezar a soldar la pieza primero se prepara una superficie, donde ocupe una jeringa con flux, esto sirve para limpiar el metal, mejorar la fluidez y proteger contra el calor
 
-![[Soldadura4Danne.JPG]]
+![Soldadura 3D](Media/Soldadura4Danne.JPG)
 
 
 Ahora si, ya tenemos el entorno listo y podemos empezar a soldar, mostraré como quedo el primer lado, si ves cual fue el error felicidades, tienes ojo de águila.
 
-![[Soldadura7Danne.JPG]]
+![Soldadura 3D](Media/Soldadura7Danne.JPG)
 
+![Soldadura 3D](Media/Soldadura8Danne.JPG)
 
-
-![[Soldadura8Danne.JPG]]
-
-![[Soldadura5Danne.JPG]]
+![Soldadura 3D](Media/Soldadura5Danne.JPG)
 
 
 Fue la primera vez que soldaba, la verdad si me tarde bastante, pero fui con calma, checando  como iba quedando cada soldadura y sobretodo siguiendo las instrucciones, es decir se pega el cautin 3 segundos, y después se coloca el alambre, lleva tiempo pero quede chulísima la soldadura pero aun así tenía algunos errores porque no quedaba tal cual como un volcán, por lo cual se mejoró la estructura usando la presentación subida, donde viene que hacer en cada situación y ahora si, así quedo finalmente, con mucha paciencia.
 
-![[Soldadura9Danne.JPG]]
+![Soldadura 3D](Media/Soldadura9Danne.JPG)
 
-![[Soldadura10Danne.JPG]]
 
 
 ### Jose Leonardo Diaz
