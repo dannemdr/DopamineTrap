@@ -28,7 +28,7 @@ Bueno para empezar en el proceso de soldadura primero hay que saber que ocupar, 
 
 Ahora si, antes de explicar el proceso, enseñare los materiales ocupados en este mismo.
 
-![[Soldadura1Danne.jpg]]
+![Soldadura 3D](Media/Soldadura1Danne.JPG)
 
 *(Imagen modificada con IA para colocar texto)
 
