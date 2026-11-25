@@ -14,3 +14,4 @@ ya para finalizar, imprimimos el modelo final en la impresora 3d disponible
 
 ![Impresión](Media/impresionDiaz.jpeg)
 
+
