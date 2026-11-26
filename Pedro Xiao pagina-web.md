@@ -2,7 +2,7 @@
 
 Al principio yo ya tenia certeza de lo que mostraba y como hacer el código de la presentación porque mi equipo ya lo había echo, en si nadamas tomando en cuenta el código principal, cambiándole la contraseña y el nombre ya debería de ser una diferente y con otras letras. 
 
-![Pipo_Codigo](Media/Pipo_codigo.png)
+![Codigo](Media/Pipo_Codigo.png)
 
 ### Captura de pantalla y código arreglado 
 
