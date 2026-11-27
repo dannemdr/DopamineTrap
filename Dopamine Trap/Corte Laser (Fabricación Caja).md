@@ -102,9 +102,8 @@ El corte láser nos permitió construir un cofre resistente, preciso y fácil de
 
 #### Muestras del proceso de bending
 
-![Muestras](Media/laser1.JPG)
-
+![Muestras](../Media/laser1.JPG)
 
 #### Muestra del proceso del bending final, ya el prototipo con medidas
 
-![MuestraGrande](Media/laser2.JPG)
+![MuestraGrande](../Media/laser2.JPG)
