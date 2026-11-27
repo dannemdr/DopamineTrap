@@ -5,7 +5,7 @@ Para el modelado en bambú para la impresión, ocupé una aplicación de celula
 
 Igual esta app sirve bastante cuando cuentas con LiDAR en tu celular, ya que logra dimensionar mejor las figuras y proximidades. Por ello es que igual mi modelo salió bastante similar.
 
-![Batdanne](./batdanne1.JPG)
+![Batdanne](Media/batdanne1.JPG)
 
 ![Batdanne](./batdanne2.JPG)
 
