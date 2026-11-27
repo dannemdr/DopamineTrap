@@ -57,5 +57,4 @@ Durante el semestre no tuvimos tantas clases dedicadas a la impresión 3D (nos h
 
 La impresión 3D complementó el trabajo de corte láser: el láser dio al cofre su estructura y la impresión le dio su personalidad. Con poco más de una hora y media de impresión y 67 g de filamento, logramos los detalles que hacen que el proyecto se vea terminado y fiel a su temática.
 
-
-![Muestras](../Media/3d.JPG)
+![Muestras](../../Media/3d.JPG)
