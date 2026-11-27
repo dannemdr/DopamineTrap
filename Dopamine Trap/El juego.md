@@ -10,10 +10,14 @@ La secuencia del código es
 2. Al recibir una señal de cualquier botón, el juego iniciara y mostrara una secuencia aleatoria de botones los cuales el usuario debe de presionar
 3. Inicia el turno del jugador, el usuario debe de presionar la secuencia de botones mostrada con anterioridad
 
-El código puede elegir de entre 5 botones distintos, estos siendo el botón verde, azul, amarillo, rosa y naranja, el juego es simple y cuenta solo con 2 niveles, cada uno con una combinación aleatoria de 3 botones, la diferencia entre el nivel 1 y el nivel 2 es la velocidad, ya que el nivel 2 muestra los botones a presionar ligeramente más rápido que el primer nivel, aumentando la dificultad en el proceso 
+El código puede elegir de entre 5 botones distintos, estos siendo el botón verde, azul, amarillo, rosa y naranja, el juego puede elejir de manera aleatoria 3 de los 5 botones durante los niveles que los requieran.
 
-Sin importar el nivel, el usuario tiene 10 segundos por cada botón, si el tiempo se agota se contara como nivel no completado
+otros niveles requieren de acciones diferentes, como por ejemplo gritar, aun que el juego se conforma con un ruido suficientemente alto al microfono integrado.
+
+Algunos niveles más adelante se le pedirá al usuario que se acerque, ete reto se completara al acercarce lo suficiente a el ultrasonico integrado 
+
+Sin importar el nivel, el usuario tiene 10 segundos para realizar la acción indicada, si el tiempo se agota se contara como nivel no completado
 
 Como castigo por no completar el nivel, el cofre entrara en un tiempo de cooldown por 5 segundos y regresara a la pantalla de inicio
 
-En caso de superar el primer nivel, el juego entrara al nivel 2, en caso de superar el nivel 2, se contara como victoria y el usuario podrá recuperar su celular de dentro del cofre
+En caso de superar todos los vieles, se contara como victoria y el usuario podrá recuperar su celular de dentro del cofre
