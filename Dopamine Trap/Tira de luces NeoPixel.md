@@ -104,4 +104,4 @@ Con este cambio, la tira encendió correctamente desde la primera prueba.
 
 La tira NeoPixel le da al cofre su ambiente y su capacidad de reaccionar con luz ante cada jugada. Su conexión es sencilla, pero nos recordó la importancia de observar cada detalle antes de dar algo por sentado. Lo que comenzó como un problema frustrante terminó siendo una de las anécdotas más divertidas del proyecto y una lección que no vamos a olvidar.
 
-![Led](Media/led.mov)
+[Ver video de demostración (led.mov)](./Media/led.mov)
