@@ -4,25 +4,25 @@
 
 En esta parte se tomó el código de la presentación, donde solo se modifico el nombre, contraseña de 8 dígitos y el pin.
 
-![Video de prueba](./xiaowifidanne.PNG)
+![Video de prueba](xiaowifidanne.png)
 
 ##### Capturas 
 
 Se adjunto captura de pantalla del inicio y como sale la página en un inicio y como se ve en morado después pues de dar los respectivos clicks.
 
-![Video de prueba](./wifidanne.PNG)
+![Video de prueba](wifidanne.PNG)
 
-![Video de prueba](./wifidanne2.PNG)
+![Video de prueba](wifidanne2.PNG)
 
 ##### Video
 
 Como podemos observar si se prende y se apaga de acuerdo a la página, aquí una pequeña demostración.
 
-![xiao prende apaga boton](./wifidanne3.MP4)
+![xiao prende apaga boton](wifidanne3.MP4)
 
 #### Dato Extra
 
-![Video de prueba](./xiaowifi5.jpg)
+![Video de prueba](xiaowifi5.JPG)
 
 Esa antena sirve para darle mayor alcance y estabilidad a la conexión Wi-Fi y Bluetooth de la placa, especialmente útil si vas a guardarla dentro de una carcasa cerrada.
 
