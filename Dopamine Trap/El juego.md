@@ -14,7 +14,9 @@ El código puede elegir de entre 5 botones distintos, estos siendo el botón ver
 
 otros niveles requieren de acciones diferentes, como por ejemplo gritar, aun que el juego se conforma con un ruido suficientemente alto al microfono integrado.
 
-Algunos niveles más adelante se le pedirá al usuario que se acerque, ete reto se completara al acercarce lo suficiente a el ultrasonico integrado 
+Algunos niveles más adelante se le pedirá al usuario que se acerque, ete reto se completara al acercarce lo suficiente a el ultrasonico integrado.
+
+La actualización más reciente, gracias a que logramos hacer que el acelerómetro funcione, la posibilidad de agregar el reto de mover el cofre es una realidad.
 
 Sin importar el nivel, el usuario tiene 10 segundos para realizar la acción indicada, si el tiempo se agota se contara como nivel no completado
 
