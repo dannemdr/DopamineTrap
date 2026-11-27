@@ -22,4 +22,4 @@ Sin importar el nivel, el usuario tiene 10 segundos para realizar la acción ind
 
 Como castigo por no completar el nivel, el cofre entrara en un tiempo de cooldown por 5 segundos y regresara a la pantalla de inicio
 
-En caso de superar todos los vieles, se contara como victoria y el usuario podrá recuperar su celular de dentro del cofre
+En caso de superar todos los niveles, se contara como victoria y el usuario podrá recuperar su celular de dentro del cofre
