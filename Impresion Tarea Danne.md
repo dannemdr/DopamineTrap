@@ -5,13 +5,13 @@ Para el modelado en bambú para la impresión, ocupé una aplicación de celula
 
 Igual esta app sirve bastante cuando cuentas con LiDAR en tu celular, ya que logra dimensionar mejor las figuras y proximidades. Por ello es que igual mi modelo salió bastante similar.
 
-![Batdanne](./batdanne1.JPG)
+![Batdanne](Media/batdanne1.JPG)
 
-![Batdanne](./batdanne2.JPG)
+![Batdanne](Media/batdanne2.JPG)
 
-![Batdanne](./batdanne4.JPG)
+![Batdanne](Media/batdanne4.JPG)
 
-![Batdanne](./batdanne5.JPG)
+![Batdanne](Media/batdanne5.JPG)
 
 
 ### Preparación en Bambu Lab
@@ -28,11 +28,11 @@ A la hora de imprimir nos surgieron varios problemas, pero bueno. En la primer
 Gracias a esto aprendí a cómo limpiar una punta, quitar ese exceso de filamento, cómo retirar el filamento y, sobre todo, la importancia del cuidado de los filamentos. Pero bueno, una vez cambiado el filamento —que la verdad es bastante sencillo, solo que la primera vez da miedo porque es algo nuevo, y es una impresora 3D, por lo que tenemos que tener cuidado—, el primer intento no quedó del todo bien. La impresión salió con una línea en medio del pato y se trabó porque la punta falló, entonces no se acabó de imprimir y quedaba con líneas demasiado marcadas o poco estéticas.
 
 
-![Batdanne](./batdanne6.JPG)
+![Batdanne](Media/batdanne6.JPG)
 
-![Batdanne](./batdanne7.JPG)
+![Batdanne](Media/batdanne7.JPG)
 
-![Batdanne](./batdanne9.JPG)
+![Batdanne](Media/batdanne9.JPG)
 
 
 ### La versión definitiva: El toque gótico de Batman
@@ -40,10 +40,10 @@ Gracias a esto aprendí a cómo limpiar una punta, quitar ese exceso de filamen
 Pero bueno, luego se cambió el filamento, ahora a color negro —más Batman obvio, soy el señor de la noche—. Y bueno,ahora sí salió súper bien, tardó 42 minutos. Quedó muy bien de detalle y las líneas se ven bien; incluso el filamento negro le da un toque más gótico, muy Batman. Al final, ese pequeño tropiezo del filamento estuvo súper bien y valió la pena. Y bueno, así quedó el producto final.
 
 
-![Batdanne](./batdanne10.JPG)
+![Batdanne](Media/batdanne10.JPG)
 
-![Batdanne](./batdanne11.JPG)
+![Batdanne](Media/batdanne11.JPG)
 
-![Batdanne](./batdanne12.JPG)
+![Batdanne](Media/batdanne12.JPG)
 
-![Batdanne](./batdanne13.JPG)
+![Batdanne](Media/batdanne13.JPG)
