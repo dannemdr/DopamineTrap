@@ -94,4 +94,4 @@ Todos los botones se conectan de la misma forma: la patita **COM** va a tierra y
 
 Los botones arcade le dan al cofre una forma de interacción clara, divertida y fácil de entender para cualquier persona. Su tamaño y sus colores cumplen una doble función: atraen la atención del jugador y facilitan el reto de memoria. Aunque su conexión parecía sencilla, nos enseñaron que una buena unión entre cable y terminal es tan importante como el propio componente.
 
-![Boton](Media/boton.JPG)
+![Boton](../Media/boton.JPG)
