@@ -1,5 +1,5 @@
 
-El acelerometro detectara cualquier cambio en el eje X, Y o Z y con esto determinara si el cofre se movio a la derecha, izquiera, arriba o abajo.
+El acelerómetro detectara cualquier cambio en el eje X, Y o Z y con esto determinara si el cofre se movió a la derecha, izquierda, arriba o abajo.
 
 Mientras planeábamos los retos que estarían incluidos en el juego pensamos que seria una buena idea incluir un nivel el cual el usuario tendría que agitar el cofre o moverlo a la izquierda, derecha, arriba o abajo.
 
