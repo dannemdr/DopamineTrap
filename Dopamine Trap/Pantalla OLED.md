@@ -81,4 +81,4 @@ Gracias a la creatividad de nuestro profesor y asesor Rafael, encontramos una so
 
 La pantalla OLED resultó ser un componente sencillo de conectar y de programar, pero con un gran impacto en la experiencia del jugador. Lo que al principio parecía una limitación, su tamaño reducido, se convirtió en uno de los detalles más llamativos del cofre: un letrero en movimiento que le da vida y personalidad al proyecto.
 
-![pantalla](../Media/OLED.JPG)
+![pantalla](../Media/pantalla.JPG)
