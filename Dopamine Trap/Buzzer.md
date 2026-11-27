@@ -105,4 +105,4 @@ Consultamos foros en línea y buscamos imágenes de referencia para conectar el 
 
 El buzzer demostró que un componente pequeño puede cambiar por completo la experiencia de juego. Elegir el tipo adecuado marcó la diferencia entre un sonido que asusta y uno que celebra. Junto con las luces, la canción de victoria convierte el final del reto en un momento alegre, que el jugador puede reconocer al instante.
 
-![buzz](Media/Buzzer.JPG)
+![buzz](../Media/Buzzer.JPG)
